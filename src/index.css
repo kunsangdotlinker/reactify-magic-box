@@ -28,10 +28,6 @@
     --radius: 0.5rem;
   }
 
-  * {
-    @apply border-[#e5e7eb];
-  }
-
   body {
     @apply bg-background text-foreground font-inter antialiased;
     font-feature-settings: "ss01", "ss02", "cv01", "cv02";
